@@ -1,2 +1,4 @@
 __pycache__/
 .venv/
+venv/
+route_r1.txt

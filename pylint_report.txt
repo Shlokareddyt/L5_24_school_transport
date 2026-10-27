@@ -1,6 +1,4 @@
-************* Module school_transport
-school_transport.py:11:0: C0301: Line too long (110/100) (line-too-long)
 
-------------------------------------------------------------------
-Your code has been rated at 9.68/10 (previous run: 9.68/10, +0.00)
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 
